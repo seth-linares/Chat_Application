@@ -4,9 +4,6 @@ This chat application, written in Python, provides a simple but intuitive interf
 
 To use the chat application, the server must be running first. Once the server is running, clients can connect to the server and start sending messages. The server will then broadcast the messages to all other connected clients. 
 
-# Video Demonstration
-
-[Chat Application Demo Video](https://youtu.be/H9hdKUqbYHY)
 
 # Network Communication
 
